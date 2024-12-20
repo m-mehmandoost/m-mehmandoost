@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Mohammad Mehmandoost,
-- 👀 I’m interested in condensed matter physics,
-- 🌱 I’m currently learning non-equilibrium thermodynamics of glasses with applications to solid-state quantum computing devices, 
-- 💞 I’m looking to collaborate on ... !? Let's discuss it over a coffee,
-- 📫 How to reach me: mehmandoost.m@gmail.com
+
